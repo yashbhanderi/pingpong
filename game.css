@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: "Manrope", sans-serif;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Header */
+
+#header {
+    height: 100px;
+    width: 100vw;
+    background-color: #24262e;
+    color: #fff;
+    box-shadow: 0px 3px 7px 0px rgb(128 18 40 / 15%);
+}
+
+#logo {
+    font-size: 2.5rem;
+    /* margin: 20px; */
+}
+
+#header .container .auth-button {
+    color: white;
+}
