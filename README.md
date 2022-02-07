@@ -12,3 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/85643213/152886214-0aac96ce-d264-4bce-b462-cdcce862d818.png)
 
+- Display Highest Score
+
+![image](https://user-images.githubusercontent.com/85643213/152886698-3ee267f6-81e4-44d1-83f6-9620279c387d.png)
+
+
